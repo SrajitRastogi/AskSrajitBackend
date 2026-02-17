@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# FAISS index (if you persist it later)
+*.faiss
+*.pkl
+
+# Cache
+.cache/
