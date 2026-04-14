@@ -1,51 +1,64 @@
 SRAJIT RASTOGI
-Dallas, TX | +1 ( 469)-233-3407 | Rastogisrajit03@gmail.com
+Dallas, TX | +1 (469)-233-3407 | rastogisrajit03@gmail.com | LinkedIn | Portfolio
 SUMMARY
-Full Stack Java Developer with 3+ years of experience delivering applications in banking and consulting environments. Builds Java 11/17, Spring Boot microservices, RESTful APIs, and React.js (Redux, TypeScript) user interfaces, integrating AI/ML inference services, Apache Kafka, and AWS (EKS, EC2, RDS, S3) to support platforms processing 18M+ daily transactions. Collaborates with product, data, and DevOps teams across 10+ enterprise systems to deliver secure, scalable, production-ready solutions.
-PROFESSIONAL EXPERIENCE
- 
+Backend-focused Software Engineer with experience building scalable systems and AI-driven applications. Skilled in Java, Spring
+Boot, and distributed systems, with hands-on experience designing RAG-based pipelines, semantic retrieval, and full-stack
+applications using React and FastAPI.
+WORK EXPERIENCE
 BNY Mellon | USA
-Full Stack Java Developer	September 2025 – Present
-●	Developed Spring Boot microservices using Java 17, REST APIs, Spring Data JPA, Hibernate, and PostgreSQL to support fraud signal enrichment on custody platforms, handling 18M+ transactions per day with average response times near 2.1 seconds.
-●	Built React.js user interfaces with Redux, TypeScript, HTML5, and Bootstrap to display ML-driven alerts for asset servicing teams, simplifying decision flows across 14 production workflows.
-●	Integrated Machine Learning (ML) inference services into Apache Kafka pipelines running on AWS EKS, enabling real-time scoring across 6 downstream microservices used in risk and exception handling.
-●	Implemented application security using Spring Security, OAuth2, JWT, and role-based access controls, supporting 9 internal regulatory and risk audits across enterprise banking systems.
-●	Automated CI/CD pipelines with Jenkins, Docker, and Kubernetes, incorporating JUnit, Mockito, and Splunk logging to reduce deployment execution from 4 hours to 32 minutes across 11 microservices.
-KPMG | India
-Software Developer	May 2021 – July 2023
-●	Developed Java 11–based backend services using Spring Boot, Hibernate, Spring Data JPA, and PostgreSQL to support microservices-based compliance platforms managing 50M+ structured records across audit and advisory engagements.
-●	Implemented RESTful APIs documented with Swagger/OpenAPI and validated using Postman, enabling 27+ internal system
-integrations supporting regulatory reporting and client data exchange.
-●	Created responsive reporting interfaces using React.js, Redux, HTML5, and CSS3, supporting analyst workflows across 19 data-intensive modules used during client delivery cycles.
-●	Optimized complex SQL and PostgreSQL queries through indexing and execution-plan tuning, reducing batch processing time from
-48 minutes to 11 minutes for regulatory data pipelines.
-●	Established automated test suites using JUnit, Mockito, Cucumber, and JaCoCo, while enforcing static code analysis with
-SonarQube to identify 140+ pre-production defects before release cycles.
-●	Supported containerized deployments using Docker and Kubernetes, contributing to early CI/CD pipelines maintained by platform teams during migration of 8 applications into AWS environments.
-●	Collaborated within Agile Scrum teams across 6 business units, translating audit and compliance requirements into technical deliverables for 22 client programs delivered on schedule.
+Full Stack Java Developer September 2025 – Present
+● Engineered Java 17 and Spring Boot microservices with Spring Data JPA, Hibernate, and PostgreSQL to support fraud signal
+enrichment across custody platforms processing 18M+ transactions daily, maintaining a 2.1s average response time under peak load.
+● Developed RESTful services and integrated Apache Kafka–based event streams on AWS EKS, enabling real-time scoring and
+asynchronous processing across 6 downstream risk and exception handling systems.
+● Built React.js interfaces using Redux and TypeScript to surface ML-driven alerts for asset servicing teams, improving usability across
+14 production workflows.
+● Integrated LLM APIs into Spring Boot services and built a RAG pipeline using LangChain and LangGraph, improving internal
+knowledge retrieval speed by 40% and reducing manual lookup effort for operations teams.
+● Cut RAG pipeline latency by 30% and improved answer relevance by optimizing retrieval ranking, embedding caching, and generation
+flow across LLM services.
+● Strengthened application security using Spring Security, OAuth2, and JWT, supporting 9 internal regulatory and risk audits across
+enterprise banking platforms.
+● Streamlined CI/CD processes with Jenkins, Docker, and Kubernetes, incorporating JUnit, Mockito, and Splunk logging to reduce
+deployment time from 4 hours to 32 minutes across 11 microservices.
+KPMG
+Software Developer May 2021 – July 2023
+● Developed backend services in Java 11 using Spring Boot, Hibernate, Spring Data JPA, and PostgreSQL to support microservices
+based compliance platforms managing 50M+ structured records across audit and advisory programs.
+● Designed and documented REST APIs with Swagger/OpenAPI, validating integrations via Postman and enabling 27+ internal system
+connections for regulatory reporting and client data exchange.
+● Delivered responsive reporting interfaces using React.js and Redux, supporting analyst workflows across 19 data-intensive compliance
+modules.
+● Improved performance of complex PostgreSQL queries through indexing strategies and execution-plan tuning, reducing batch pipeline
+runtime from 48 minutes to 11 minutes.
+● Built automated test suites with JUnit, Mockito, Cucumber, and JaCoCo, and enforced static code quality gates using SonarQube,
+identifying 140+ pre-production defects before release cycles.
+● Contributed to containerized deployments using Docker and Kubernetes, assisting platform teams in migrating 8 applications into
+AWS environments.
+● Partnered within Agile Scrum teams across 6 business units to translate audit and compliance requirements into secure, production-
+ready backend deliverables supporting 22 client programs.
 TECHNICAL SKILLS
-●	Programming Languages: Java (8, 11, 17), SQL, JavaScript (ES6+), TypeScript
-●	Backend & APIs: Spring Boot, Spring MVC, Spring Security (OAuth2, JWT), Spring Data JPA, Hibernate, Microservices Architecture, RESTful APIs, JPA, JDBC
-●	Frontend Technologies: React.js, Redux, HTML5, CSS3, Bootstrap, Responsive UI Development
-●	Databases: PostgreSQL, MySQL, Oracle, Microsoft SQL Server, MongoDB
-●	Messaging & Event Streaming: Apache Kafka
-●	AI / ML Integration: Machine Learning (ML) inference integration, model-driven API consumption, data feature pipelines, AI-assisted decision services
-●	Cloud Platforms: AWS (EC2, S3, EKS, RDS, Glue), Azure (basic), Google Cloud Platform (GCP)
-●	DevOps & CI/CD: Docker, Kubernetes, Jenkins, Maven, Gradle
-●	Testing & Quality Engineering: JUnit, Mockito, Cucumber, Postman, SonarQube, JaCoCo
-●	Monitoring & Logging: Splunk
-●	API Documentation: Swagger, OpenAPI
-●	Version Control & Tools: Git, GitHub, GitLab, IntelliJ IDEA, Eclipse, Spring Tool Suite (STS), Visual Studio Code
-●	Methodologies: Agile (Scrum), Software Development Life Cycle (SDLC)
+● Programming Languages: Java (8, 11, 17), SQL, JavaScript (ES6+), TypeScript,Python
+● Backend & APIs: Spring Boot, Spring Security (OAuth2, JWT), Spring Data JPA, Hibernate, REST APIs, Microservices,FastAPI
+● Frontend Technologies: React.js, Redux, HTML5, CSS3
+● Databases: PostgreSQL, MySQL, MongoDB
+● Messaging & Event Streaming: Apache Kafka
+● AI / ML: LLM Integration, Retrieval-Augmented Generation (RAG), LangChain, LangGraph, Embeddings, Vector Databases, Prompt
+Engineering
+● Cloud Platforms: AWS (EKS, EC2, RDS, S3)
+● DevOps & CI/CD: Docker, Kubernetes, Jenkins
+● Testing & Quality Engineering: JUnit, Mockito, Cucumber
+● Monitoring & Logging: Splunk, Swagger/OpenAPI, Git
 PROJECTS
-FREIGHTFLOW
-●	Created a Java-based microservices solution using Spring Boot, REST APIs, PostgreSQL, and AWS ECS to streamline freight check-in workflows, supporting 12+ backend services and reducing manual validation during shipment intake.
-●	Assembled a React.js frontend with TypeScript, HTML, and CSS, connecting backend APIs and enforcing input validation to support stable releases across bi-weekly deployment cycles.
+AI MEETING ASSISTANT – RAG BASED
+● Built a full-stack AI meeting assistant using React (TypeScript) and FastAPI to process transcripts and extract structured insights
+(action items, decisions, issues), reducing manual notetaking and improving follow-up efficiency.
+● Engineered a RAG-based conversational system using LangChain, Groq LLMs, and ChromaDB, enabling semantic search and
+memory-aware querying over meeting data
 SECUREPAY — Event-Driven Banking Transaction Platform
-●	Configured a secure transaction processing service using Java, Spring Boot, Spring Security (JWT), and PostgreSQL, persisting
+● Configured a secure transaction processing service using Java, Spring Boot, Spring Security (JWT), and PostgreSQL, persisting
 1.2M+ simulated transactions with audit-friendly data models and role-based access.
-●	Established Apache Kafka event flows to separate transaction validation and settlement logic, enabling parallel processing across 5
+● Established Apache Kafka event flows to separate transaction validation and settlement logic, enabling parallel processing across 5
 independently deployable services without tight coupling.
 EDUCATION
- 
-Masters of Science in Software Engineering | University of Texas at Dallas | Dallas, TX	August 2023 – May 2025
+Master of Science in Software Engineering | University of Texas at Dallas | Dallas, TX August 2023 – May 2025
